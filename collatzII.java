@@ -30,6 +30,7 @@ public class Main {
                 maxn = x;
             }
         }
+        System.out.println(maxn);
         System.out.println(maxi);
     }
 }
